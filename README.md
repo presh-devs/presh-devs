@@ -1,6 +1,6 @@
 # Hi👋
 ## 
-I am a budding mobile application developer with a passion for creating innovative and user-friendly apps. I am a highly motivated and self-driven individual who is always eager to learn new things and take on new challenges.
+I am a proficient Flutter developer with 2+ years of experience in developing mobile applications that are both engaging and user-friendly. I leverage my combined expertise in translating UI/UX designs into mobile applications, alongside my strong skillset in API integration and cross-platform development, to deliver user-centric solutions. My ability to collaborate effectively has been instrumental in delivering high-performing software that meets user satisfaction.
 ### Framework(s) & Language(s)
 ![Dart](https://github.com/presh-devs/presh-devs/blob/master/dart.svg)
 ![Flutter](https://github.com/presh-devs/presh-devs/blob/master/flutter.svg)
