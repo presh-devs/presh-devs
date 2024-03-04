@@ -6,4 +6,4 @@ I am a proficient Flutter developer with 2+ years of experience in developing mo
 ![Flutter](https://github.com/presh-devs/presh-devs/blob/master/flutter.svg)
 ### Contact☎️
 [![Gmail](https://github.com/presh-devs/presh-devs/blob/master/gmail.svg)](mailto:devpreciousadebayo@gmail.com)
-[![Linkedin](https://github.com/presh-devs/presh-devs/blob/master/linkedin.svg)]()
+[![Linkedin](https://github.com/presh-devs/presh-devs/blob/master/linkedin.svg)](https://www.linkedin.com/in/precious-adebayo/)
